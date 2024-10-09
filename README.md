@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Travel Website
+# Travel Website
 Modern travel app build with React, Next js and Tailwind.
 
 
